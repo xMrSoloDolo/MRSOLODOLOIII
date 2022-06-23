@@ -1,7 +1,7 @@
 {
   
   
-  "ENABLE_Ads":false,
+  "ENABLE_Ads":true,
 	"APP_KEY": "fS4561",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -9,9 +9,9 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "5177875d",
-	"APPLOVIN_INTERSTITIAL_ID": "b4b163685c7b07",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"247575456a9",
+	"APPLOVIN_BANNER_ID": "77976acd804db1b3",
+	"APPLOVIN_INTERSTITIAL_ID": "a6a3c967ebc931ce",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"a6a3c967ebc931ce",
 	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -47,7 +47,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
+    "Visibility_image_cpa":true,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
@@ -56,7 +56,7 @@
 		{
 			"title": "reserved",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/rsrvd.png",
-			"url": "http://"
+			"url": "http://alturl.com/p8f75"
 		}
 
 	]
