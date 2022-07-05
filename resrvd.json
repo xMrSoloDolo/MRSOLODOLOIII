@@ -1,7 +1,7 @@
 {
   
   
-  "ENABLE_Ads":true,
+  "ENABLE_Ads":false,
 	"APP_KEY": "fS4561",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -12,7 +12,7 @@
 	"APPLOVIN_BANNER_ID": "77976acd804db1b3",
 	"APPLOVIN_INTERSTITIAL_ID": "a6a3c967ebc931ce",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"a6a3c967ebc931ce",
-	"ENABLE_ONBACK_ADS":true,
+	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -27,7 +27,7 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/Jcqfrp5/reservicon.jpg",
 	"popAppPackage": "",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
@@ -47,7 +47,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
@@ -56,7 +56,7 @@
 		{
 			"title": "reserved",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/rsrvd.png",
-			"url": "http://alturl.com/p8f75"
+			"url": "http://"
 		}
 
 	]
