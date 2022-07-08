@@ -32,7 +32,7 @@
 
 	"isPage1Activate": true,
 	"isPage2Activate": true,
-	"isPage3Activate": false,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
