@@ -45,7 +45,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
@@ -54,7 +54,7 @@
 		{
 			"title": "SNKRS air jordan",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/jrdn.png",
-			"url": "http://alturl.com/24ona"
+			"url": "http://"
 		}
 
 	]
