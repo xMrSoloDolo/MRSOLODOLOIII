@@ -1,7 +1,7 @@
 {
   
   
-  "ENABLE_Ads":false,
+  "ENABLE_Ads":true,
 	"APP_KEY": "fS4561",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -9,8 +9,8 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "5177875d",
-	"APPLOVIN_INTERSTITIAL_ID": "b4b163685c7b07",
+	"APPLOVIN_BANNER_ID": "0a82fcd1e0a8cb94",
+	"APPLOVIN_INTERSTITIAL_ID": "6d3e522752e150c0",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"247575456a9",
 	"ENABLE_ONBACK_ADS":false,
 
@@ -19,7 +19,7 @@
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "64858",
 
@@ -31,8 +31,8 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
@@ -56,7 +56,7 @@
 		{
 			"title": "Coach Outlit",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/cch.png",
-			"url": "http://"
+			"url": "https://www.coachoutlet.com/"
 		}
 
 	]
