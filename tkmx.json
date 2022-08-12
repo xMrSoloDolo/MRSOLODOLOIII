@@ -33,7 +33,7 @@
 
 	"isPage1Activate": true,
 	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
@@ -57,7 +57,7 @@
 		{
 			"title": "tkmaxx",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/tk.png",
-			"url": "http://"
+			"url": "http://alturl.com/35ysi"
 		}
 
 	]
